@@ -1,0 +1,8 @@
+{
+  "name": "FoodConnect - Smart Food Donation Management System",
+  "description": "Smart food donation management platform connecting donors, NGOs, and volunteers to minimize food waste.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
